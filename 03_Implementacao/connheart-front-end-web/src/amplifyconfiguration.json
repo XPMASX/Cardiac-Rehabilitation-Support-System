@@ -1,0 +1,10 @@
+{
+  "Auth": {
+    "Cognito": {
+      "userPoolId": "eu-west-1_2ZoPXOI9e",
+      "userPoolClientId": "70tbkp617tdhrla05j7ak4jdmb",
+      "allowGuestAccess": false,
+      "signUpVerificationMethod": "link"
+    }
+  }
+}

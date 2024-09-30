@@ -1,0 +1,5 @@
+falcon
+mysql-connector-python
+falcon-cors
+perlin-noise
+requests

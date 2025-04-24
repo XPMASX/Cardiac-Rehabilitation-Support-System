@@ -47,4 +47,20 @@ The project also includes the **report** and **presentation**, which provide fur
 | **Advisors**              | Eng. Rui Jesus & Eng. André Lourenço |
 | **Discussant**            | Eng. Carlos Gonçalves |
 
+
+## Demonstration
+
+### Questionnaire:
+
+https://github.com/user-attachments/assets/d5273291-6a9c-488e-898c-5998f949dc42
+
+### Plans:
+
+https://github.com/user-attachments/assets/b9413f46-1dfd-4ae2-985c-a6bc5d0269e5
+
+### Dashboard:
+
+
+https://github.com/user-attachments/assets/6449ac63-9c70-41f1-b896-29917250e74f
+
 ---
